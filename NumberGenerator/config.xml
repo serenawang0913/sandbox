@@ -3,9 +3,9 @@
 	xmlns:gap="http://phonegap.com/ns/1.0"
 	id="com.serena.wang"
 	versionCode="10"
-	version="1.0.0">
+	version="1.0.1">
 	<name>Number generator</name>
 	<description>Number generator</description>
 	<author href="" email="serena0913@gmail.com">serena.wang</author>
-	<icon src="sp.gif" />
+	<icon src="icon.png" />
 </widget>
